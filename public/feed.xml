@@ -5,45 +5,48 @@
     <link>https://eps-rss-project-minimal.vercel.app/</link>
     <atom:link href="https://eps-rss-project-minimal.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
     <description>High-risk early-stage stock pump alerts</description>
+    <lastBuildDate>Tue, 12 Aug 2025 13:28:00 +0000</lastBuildDate>
+
+    <!-- Penny stocks only: early pump / Reddit buzz / Robinhood-tradable style -->
 
     <item>
-      <title>Watchlist: BMNR — Bitmine Immersion Technologies momentum</title>
-      <link>https://finance.yahoo.com/quote/BMNR/</link>
-      <description>Crypto-adjacent microcap seeing rising Stocktwits chatter and volatile bids. Extremely high risk; watch volume and tape.</description>
-      <pubDate>Tue, 12 Aug 2025 13:50:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-bmnr-2025-08-12</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: PSTV — Plus Therapeutics speculative buzz</title>
-      <link>https://finance.yahoo.com/quote/PSTV/</link>
-      <description>Small-cap biotech with active Reddit threads; early-move pump risk profile. Momentum only; thin float dynamics possible.</description>
-      <pubDate>Tue, 12 Aug 2025 13:51:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-pstv-2025-08-12</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: WKSP — Worksport breakout watch</title>
-      <link>https://finance.yahoo.com/quote/WKSP/</link>
-      <description>Retail attention building; watching for early push and volume expansion. Highly speculative; manage risk tightly.</description>
-      <pubDate>Tue, 12 Aug 2025 13:52:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-wksp-2025-08-12</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: SBET — Sharplink Gaming retail interest</title>
+      <title>Watchlist: SBET — Sharplink Gaming retail chatter</title>
       <link>https://finance.yahoo.com/quote/SBET/</link>
-      <description>Robinhood-friendly small cap with social buzz; early pump potential if volume persists. Very high volatility.</description>
-      <pubDate>Tue, 12 Aug 2025 13:53:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-sbet-2025-08-12</guid>
+      <description>Robinhood-friendly gaming microcap with active social threads; early-pump risk profile. Extremely high risk.</description>
+      <pubDate>Tue, 12 Aug 2025 13:28:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-sbet-2025-08-12-1328</guid>
     </item>
 
     <item>
-      <title>Watchlist: BTAI — BioXcel Therapeutics catalyst watch</title>
-      <link>https://finance.yahoo.com/quote/BTAI/</link>
-      <description>Small-cap biotech on watchlists with active discussion threads; prone to sharp moves on headlines. Extreme risk.</description>
-      <pubDate>Tue, 12 Aug 2025 13:54:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-btai-2025-08-12</guid>
+      <title>Watchlist: TLSA — Tiziana Life Sciences momentum watch</title>
+      <link>https://finance.yahoo.com/quote/TLSA/</link>
+      <description>Biotech penny name seen in Reddit/Stocktwits lists; thin float dynamics possible. Momentum-only.</description>
+      <pubDate>Tue, 12 Aug 2025 13:27:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-tlsa-2025-08-12-1327</guid>
+    </item>
+
+    <item>
+      <title>Watchlist: DRUG — Bright Minds Biosciences early buzz</title>
+      <link>https://finance.yahoo.com/quote/DRUG/</link>
+      <description>Low-priced biotech with social interest spikes; watch for premarket volume expansion. Very high volatility.</description>
+      <pubDate>Tue, 12 Aug 2025 13:26:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-drug-2025-08-12-1326</guid>
+    </item>
+
+    <item>
+      <title>Watchlist: MNPR — Monopar Therapeutics speculative threads</title>
+      <link>https://finance.yahoo.com/quote/MNPR/</link>
+      <description>Active mentions in penny subreddits; prone to sharp moves on headlines. Extreme risk; tight risk controls.</description>
+      <pubDate>Tue, 12 Aug 2025 13:25:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-mnpr-2025-08-12-1325</guid>
+    </item>
+
+    <item>
+      <title>Watchlist: WKSP — Worksport breakout skim</title>
+      <link>https://finance.yahoo.com/quote/WKSP/</link>
+      <description>Retail attention building; watch tape for early push and volume follow-through. High risk.</description>
+      <pubDate>Tue, 12 Aug 2025 13:24:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-wksp-2025-08-12-1324</guid>
     </item>
 
   </channel>
