@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Early Pump Signals – Reddit Watch</title>
-    <link>https://https://eps-rss-project-minimal.vercel.app/feed.xml</link>
-    <atom:link href="https://<your-vercel-app>.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://eps-rss-project-minimal.vercel.app/</link>
+    <atom:link href="https://eps-rss-project-minimal.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
     <description>High-risk early-stage stock pump alerts</description>
 
     <item>
