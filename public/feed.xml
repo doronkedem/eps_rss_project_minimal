@@ -5,48 +5,46 @@
     <link>https://eps-rss-project-minimal.vercel.app/</link>
     <atom:link href="https://eps-rss-project-minimal.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
     <description>High-risk early-stage stock pump alerts</description>
-    <lastBuildDate>Tue, 12 Aug 2025 13:28:00 +0000</lastBuildDate>
-
-    <!-- Penny stocks only: early pump / Reddit buzz / Robinhood-tradable style -->
+    <lastBuildDate>Wed, 13 Aug 2025 13:32:00 +0000</lastBuildDate>
 
     <item>
-      <title>Watchlist: SBET — Sharplink Gaming retail chatter</title>
-      <link>https://finance.yahoo.com/quote/SBET/</link>
-      <description>Robinhood-friendly gaming microcap with active social threads; early-pump risk profile. Extremely high risk.</description>
-      <pubDate>Tue, 12 Aug 2025 13:28:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-sbet-2025-08-12-1328</guid>
+      <title>Watchlist: CGTX — Catalyst chatter & premarket watch</title>
+      <link>https://finance.yahoo.com/quote/CGTX/</link>
+      <description>Cognition Therapeutics drawing attention on catalyst threads and premarket mentions; momentum-only.</description>
+      <pubDate>Wed, 13 Aug 2025 13:32:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-cgtx-2025-08-13-1332</guid>
     </item>
 
     <item>
-      <title>Watchlist: TLSA — Tiziana Life Sciences momentum watch</title>
+      <title>Watchlist: BMNR — Crypto-adjacent buzz</title>
+      <link>https://finance.yahoo.com/quote/BMNR/</link>
+      <description>BitMine Immersion tied to ETH headlines; retail chatter elevated—extremely high risk.</description>
+      <pubDate>Wed, 13 Aug 2025 13:31:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-bmnr-2025-08-13-1331</guid>
+    </item>
+
+    <item>
+      <title>Watchlist: NRXP — Earnings after-hours watch</title>
+      <link>https://finance.yahoo.com/quote/NRXP/</link>
+      <description>NRx Pharmaceuticals on watch into scheduled Q2 results; thin float dynamics possible.</description>
+      <pubDate>Wed, 13 Aug 2025 13:30:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-nrxp-2025-08-13-1330</guid>
+    </item>
+
+    <item>
+      <title>Watchlist: TLSA — Biotech penny with fresh IND news</title>
       <link>https://finance.yahoo.com/quote/TLSA/</link>
-      <description>Biotech penny name seen in Reddit/Stocktwits lists; thin float dynamics possible. Momentum-only.</description>
-      <pubDate>Tue, 12 Aug 2025 13:27:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-tlsa-2025-08-12-1327</guid>
+      <description>Tiziana Life Sciences: recent IND clearance headlines sustain retail interest; momentum trade only.</description>
+      <pubDate>Wed, 13 Aug 2025 13:29:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-tlsa-2025-08-13-1329</guid>
     </item>
 
     <item>
-      <title>Watchlist: DRUG — Bright Minds Biosciences early buzz</title>
-      <link>https://finance.yahoo.com/quote/DRUG/</link>
-      <description>Low-priced biotech with social interest spikes; watch for premarket volume expansion. Very high volatility.</description>
-      <pubDate>Tue, 12 Aug 2025 13:26:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-drug-2025-08-12-1326</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: MNPR — Monopar Therapeutics speculative threads</title>
-      <link>https://finance.yahoo.com/quote/MNPR/</link>
-      <description>Active mentions in penny subreddits; prone to sharp moves on headlines. Extreme risk; tight risk controls.</description>
-      <pubDate>Tue, 12 Aug 2025 13:25:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-mnpr-2025-08-12-1325</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: WKSP — Worksport breakout skim</title>
-      <link>https://finance.yahoo.com/quote/WKSP/</link>
-      <description>Retail attention building; watch tape for early push and volume follow-through. High risk.</description>
-      <pubDate>Tue, 12 Aug 2025 13:24:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-wksp-2025-08-12-1324</guid>
+      <title>Watchlist: GFAI — AI microcap volatility</title>
+      <link>https://finance.yahoo.com/quote/GFAI/</link>
+      <description>Guardforce AI sees recurring social DD threads; watch for volume inflections and halts.</description>
+      <pubDate>Wed, 13 Aug 2025 13:28:00 +0000</pubDate>
+      <guid isPermaLink="false">watch-gfai-2025-08-13-1328</guid>
     </item>
 
   </channel>
