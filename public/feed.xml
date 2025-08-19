@@ -1,50 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Early Pump Signals – Reddit Watch</title>
+    <title>DFLI – Dragonfly Energy Watch</title>
     <link>https://eps-rss-project-minimal.vercel.app/</link>
     <atom:link href="https://eps-rss-project-minimal.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
-    <description>High-risk early-stage stock pump alerts</description>
-    <lastBuildDate>Wed, 13 Aug 2025 13:32:00 +0000</lastBuildDate>
+    <description>Real-time alerts for Dragonfly Energy (DFLI): OEM deals, guidance, financings, patents, and major headlines.</description>
+    <lastBuildDate>Tue, 19 Aug 2025 13:10:00 +0000</lastBuildDate>
 
     <item>
-      <title>Watchlist: CGTX — Catalyst chatter & premarket watch</title>
-      <link>https://finance.yahoo.com/quote/CGTX/</link>
-      <description>Cognition Therapeutics drawing attention on catalyst threads and premarket mentions; momentum-only.</description>
-      <pubDate>Wed, 13 Aug 2025 13:32:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-cgtx-2025-08-13-1332</guid>
+      <title>DFLI — OEM mix shift & margin focus</title>
+      <link>https://finance.yahoo.com/quote/DFLI/</link>
+      <description>Watch for OEM order adds and gross margin expansion; positive updates can trigger early momentum.</description>
+      <pubDate>Tue, 19 Aug 2025 13:10:00 +0000</pubDate>
+      <guid isPermaLink="false">dfli-watch-2025-08-19-1310</guid>
     </item>
 
     <item>
-      <title>Watchlist: BMNR — Crypto-adjacent buzz</title>
-      <link>https://finance.yahoo.com/quote/BMNR/</link>
-      <description>BitMine Immersion tied to ETH headlines; retail chatter elevated—extremely high risk.</description>
-      <pubDate>Wed, 13 Aug 2025 13:31:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-bmnr-2025-08-13-1331</guid>
+      <title>DFLI — Licensing revenue milestones</title>
+      <link>https://finance.yahoo.com/quote/DFLI/press-releases</link>
+      <description>Monitor licensing/royalty updates (e.g., Battle Born brand deals) — recurring revenue is a key squeeze catalyst.</description>
+      <pubDate>Tue, 19 Aug 2025 13:09:00 +0000</pubDate>
+      <guid isPermaLink="false">dfli-lic-2025-08-19-1309</guid>
     </item>
 
     <item>
-      <title>Watchlist: NRXP — Earnings after-hours watch</title>
-      <link>https://finance.yahoo.com/quote/NRXP/</link>
-      <description>NRx Pharmaceuticals on watch into scheduled Q2 results; thin float dynamics possible.</description>
-      <pubDate>Wed, 13 Aug 2025 13:30:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-nrxp-2025-08-13-1330</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: TLSA — Biotech penny with fresh IND news</title>
-      <link>https://finance.yahoo.com/quote/TLSA/</link>
-      <description>Tiziana Life Sciences: recent IND clearance headlines sustain retail interest; momentum trade only.</description>
-      <pubDate>Wed, 13 Aug 2025 13:29:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-tlsa-2025-08-13-1329</guid>
-    </item>
-
-    <item>
-      <title>Watchlist: GFAI — AI microcap volatility</title>
-      <link>https://finance.yahoo.com/quote/GFAI/</link>
-      <description>Guardforce AI sees recurring social DD threads; watch for volume inflections and halts.</description>
-      <pubDate>Wed, 13 Aug 2025 13:28:00 +0000</pubDate>
-      <guid isPermaLink="false">watch-gfai-2025-08-13-1328</guid>
+      <title>DFLI — Funding & dilution risk checks</title>
+      <link>https://www.nasdaq.com/market-activity/stocks/dfli</link>
+      <description>Track any converts/ATM usage; clean financing or reduced burn can flip sentiment quickly.</description>
+      <pubDate>Tue, 19 Aug 2025 13:08:00 +0000</pubDate>
+      <guid isPermaLink="false">dfli-fund-2025-08-19-1308</guid>
     </item>
 
   </channel>
